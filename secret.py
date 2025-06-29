@@ -6,6 +6,9 @@ Didn’t even hesitate, huh?
 
 Looking for the next million-dollar startup idea?  
 Sorry bro — just a gentle reminder:
+Following someone and appreciating their work...  
+that's a startup idea too 💡😉
+
 
 👋 If you're gonna take the repo,  
 at least take a second to follow the human behind it 💚
