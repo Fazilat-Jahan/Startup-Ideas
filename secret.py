@@ -17,6 +17,11 @@ That’s wild 😭
 One click won’t hurt —  
 but ignoring devs who create stuff? That’s cold 💔
 
+If something I built made it to your machine,
+maybe I deserve a small space in your following list too?
+
+It’s free. It helps. And it honestly means a lot 💚
+
 – With love,  
   The repo you just cloned.
 """)
